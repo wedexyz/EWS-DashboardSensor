@@ -1,2 +1,2 @@
 # halaman-dashboard
-https://wedexyz.github.io/halaman-dashboard/
+https://wedexyz.github.io/EWS-DashboardSensor/
